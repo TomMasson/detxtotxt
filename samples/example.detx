@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<detx copyright="Chinkel S.A., 2007-2025">
+
+  <header>
+    <cappella version="3.7.0"/>
+    <videofile timestamp="01:00:00:00">C:\Users\Tom Blanchet\Documents\Doublage\Pokémon\Vidéos\LowRes\Pokémon LowRes 1.mp4</videofile>
+    <last_position timecode="01:04:16:21" track="0"/>
+  </header>
+
+  <roles>
+    <role color="#000000" description="" id="fliquette" name="Fliquette"/>
+    <role color="#000000" description="" id="le_gang" name="Le gang"/>
+    <role color="#000000" description="" id="narrateur" name="Narrateur"/>
+    <role color="#000000" description="" id="ondine" name="Ondine"/>
+    <role color="#000000" description="" id="pierre" name="Pierre"/>
+    <role color="#000000" description="" id="pikachu" name="Pikachu"/>
+    <role color="#000000" description="" id="pokedex" name="Pokédex"/>
+    <role color="#000000" description="" id="sacha" name="sacha"/>
+  </roles>
+
+  <body>
+    <loop number="1" timecode="01:00:00:00"/>
+    <shot timecode="01:00:00:00"/>
+    <loop number="2" timecode="01:00:59:10"/>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:01:02:17" type="in_open"/>
+      <text>Pikachu go</text>
+      <lipsync timecode="01:01:03:20" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:01:03:23" type="in_open"/>
+      <text>Pikaaaa</text>
+      <lipsync timecode="01:01:04:23" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:01:07:06" type="in_open"/>
+      <text>Pi</text>
+      <lipsync timecode="01:01:07:12" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:07:23" type="in_open"/>
+      <text>You remember in an earlier Pokemon adventure our hero Ashe achieved his dream of catching a Bulbasaur. It was a stocking vitcory !</text>
+      <lipsync timecode="01:01:15:12" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:01:15:09" type="in_open"/>
+      <text>Pikatchuuuuuuuu</text>
+      <lipsync timecode="01:01:16:19" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:01:23:16" type="in_open"/>
+      <text>Go Pokéball !!!</text>
+      <lipsync timecode="01:01:25:03" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:28:04" type="in_open"/>
+      <text>And so Bulbasaur joined the ranks</text>
+      <lipsync timecode="01:01:30:12" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:31:02" type="in_open"/>
+      <text>Soon Misty, Rock and Ashe woss their way, but found a Charmander</text>
+      <lipsync timecode="01:01:35:15" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:36:07" type="in_open"/>
+      <text>Braving a fierce storm, Ashe and his friends came to its rescue</text>
+      <lipsync timecode="01:01:39:19" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:40:03" type="in_open"/>
+      <text>Abandonned by its trainer, the fire Pokémon recovered its strength, and gained some new friends</text>
+      <lipsync timecode="01:01:45:08" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:01:46:16" type="in_open"/>
+      <text>Come on Charmander, welcome to the group</text>
+      <lipsync timecode="01:01:49:00" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:52:21" type="in_open"/>
+      <text>Charmander became Ashe's newest Pokémon</text>
+      <lipsync timecode="01:01:55:04" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:01:55:09" type="in_open"/>
+      <text>(BO) Satisfaction</text>
+      <lipsync timecode="01:01:56:04" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:01:56:24" type="in_open"/>
+      <text>And that's how Ashe caught Charmander and Bulbasaur</text>
+      <lipsync timecode="01:02:00:04" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:00:14" type="in_open"/>
+      <text>He's pretty pleased with himself  as he skeems down the road singing our favorite theme</text>
+      <lipsync timecode="01:02:04:08" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:04:24" type="in_open"/>
+      <text>Becoming a Pokémon trainer looks like it will be a snap</text>
+      <lipsync timecode="01:02:07:14" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:08:03" type="in_open"/>
+      <text>Or will it...</text>
+      <lipsync timecode="01:02:08:15" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:09:08" type="in_open"/>
+      <text>Will things continue to go so smoothly ?</text>
+      <lipsync timecode="01:02:11:14" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:12:01" type="in_open"/>
+      <text>Maybe Ashe is too confident</text>
+      <lipsync timecode="01:02:13:14" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:14:00" type="in_open"/>
+      <text>He better keep his eyes glued to the road ahead</text>
+      <lipsync timecode="01:02:16:05" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:16:14" type="in_open"/>
+      <text>Who knows what pitfallls are waiting to swallow up our young hero</text>
+      <lipsync timecode="01:02:19:22" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:02:20:12" type="in_open"/>
+      <text>(BO) Oh</text>
+      <lipsync timecode="01:02:20:22" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:02:23:09" type="in_open"/>
+      <text>(BO) AAAAAAAAAAAh</text>
+      <lipsync timecode="01:02:25:01" type="out_open"/>
+    </line>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:02:23:09" type="in_open"/>
+      <text>(BO) AAAAAAAAAAAAAh</text>
+      <lipsync timecode="01:02:24:24" type="out_open"/>
+    </line>
+    <line role="narrateur" track="2">
+      <lipsync timecode="01:02:28:03" type="in_open"/>
+      <text>Aaaah. What did I tell you ? A pitfall..</text>
+      <lipsync timecode="01:02:30:20" type="out_open"/>
+    </line>
+    <loop number="3" timecode="01:02:32:01"/>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:02:32:10" type="in_open"/>
+      <text>Here comes the squirtle squad</text>
+      <lipsync timecode="01:02:34:09" type="out_open"/>
+    </line>
+    <loop number="4" timecode="01:02:38:02"/>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:02:39:00" type="in_open"/>
+      <text>Noooo not another hole</text>
+      <lipsync timecode="01:02:40:20" type="out_open"/>
+    </line>
+    <line role="pierre" track="2">
+      <lipsync timecode="01:02:40:18" type="in_open"/>
+      <text>Aiiiie</text>
+      <lipsync timecode="01:02:41:07" type="out_open"/>
+    </line>
+    <line role="pierre" track="2">
+      <lipsync timecode="01:02:41:15" type="in_open"/>
+      <text>I landed on my head</text>
+      <lipsync timecode="01:02:43:02" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:02:44:13" type="in_open"/>
+      <text>(BO) douleur</text>
+      <lipsync timecode="01:02:46:13" type="out_open"/>
+    </line>
+    <line role="pierre" track="2">
+      <lipsync timecode="01:02:45:23" type="in_open"/>
+      <text>It must be a prank</text>
+      <lipsync timecode="01:02:47:02" type="out_open"/>
+    </line>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:02:47:09" type="in_open"/>
+      <text>Someone has a bad sense of humour</text>
+      <lipsync timecode="01:02:49:08" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:02:50:00" type="in_open"/>
+      <text>Who would blaze such a rotten trick ?</text>
+      <lipsync timecode="01:02:51:24" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:02:51:21" type="in_open"/>
+      <text>bblablalblabalblablablalla bla bla</text>
+      <lipsync timecode="01:02:54:00" type="out_open"/>
+    </line>
+    <line role="pierre" track="2">
+      <lipsync timecode="01:02:54:03" type="in_open"/>
+      <text>Who are you ?</text>
+      <lipsync timecode="01:02:55:00" type="out_open"/>
+    </line>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:02:54:19" type="in_open"/>
+      <text>What's so funny, we could have been hurt !</text>
+      <lipsync timecode="01:02:56:14" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:02:56:24" type="in_open"/>
+      <text>blablablablablablablablablablablablablabla</text>
+      <lipsync timecode="01:02:59:04" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:03:00:04" type="in_open"/>
+      <text>Ahhh..</text>
+      <lipsync timecode="01:03:00:12" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:03:00:18" type="in_open"/>
+      <text>Dangerous practical jokes are nothing to laugh about</text>
+      <lipsync timecode="01:03:03:07" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:03:15" type="in_open"/>
+      <text>Pikachu</text>
+      <lipsync timecode="01:03:04:06" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:05:23" type="in_open"/>
+      <text>-----------------------------</text>
+      <lipsync timecode="01:03:08:01" type="out_open"/>
+    </line>
+    <line role="pokedex" track="0">
+      <lipsync timecode="01:03:08:22" type="in_open"/>
+      <text>Bon je vais pas tout écrire mais en gros il raconte sa life et après il raconte encore sa life donc à vous de remplir bien comme il faut cette partie pour que ça fasse à peu près cette durée car ensuite il parle encore et après c fini</text>
+      <lipsync timecode="01:03:16:21" type="out_open"/>
+    </line>
+    <line role="pokedex" track="0">
+      <lipsync timecode="01:03:17:04" type="in_open"/>
+      <text>The blast can be quite powerful</text>
+      <lipsync timecode="01:03:19:05" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:03:19:18" type="in_open"/>
+      <text>With my very own Squirtle Machin can never beat me, go Pikachu !</text>
+      <lipsync timecode="01:03:23:09" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:25:14" type="in_open"/>
+      <text>Pi</text>
+      <lipsync timecode="01:03:25:20" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:26:09" type="in_open"/>
+      <text>Ka</text>
+      <lipsync timecode="01:03:26:14" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:27:01" type="in_open"/>
+      <text>CHUUUUUUUUUU</text>
+      <lipsync timecode="01:03:28:06" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:32:13" type="in_open"/>
+      <text>bblablabla*lablabla</text>
+      <lipsync timecode="01:03:33:06" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:34:03" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:34:19" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:34:22" type="in_open"/>
+      <text>Pikaaaa</text>
+      <lipsync timecode="01:03:35:13" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:35:20" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:36:08" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:37:04" type="in_open"/>
+      <text>Piiiiiiiiiiiiiii</text>
+      <lipsync timecode="01:03:37:24" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:40:00" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:40:20" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:42:21" type="in_open"/>
+      <text>Piiiiiiiiiiiiiiiii</text>
+      <lipsync timecode="01:03:43:24" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:43:24" type="in_open"/>
+      <text>blablablablablablablablablablablabla</text>
+      <lipsync timecode="01:03:45:19" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:03:46:08" type="in_open"/>
+      <text>Pïiiiiiiiiiiiiiiiiii</text>
+      <lipsync timecode="01:03:47:16" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:47:11" type="in_open"/>
+      <text>(BF) Grognement très long bon courage</text>
+      <lipsync timecode="01:03:50:23" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:52:13" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:53:07" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:53:17" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:54:24" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:55:11" type="in_open"/>
+      <text>blablabla</text>
+      <lipsync timecode="01:03:56:00" type="out_open"/>
+    </line>
+    <line role="le_gang" track="2">
+      <lipsync timecode="01:03:56:18" type="in_open"/>
+      <text>blablablablablablablablablablablablablablabla</text>
+      <lipsync timecode="01:03:59:04" type="out_open"/>
+    </line>
+    <line role="pikachu" track="1">
+      <lipsync timecode="01:04:00:24" type="in_open"/>
+      <text>Pikachu ?</text>
+      <lipsync timecode="01:04:01:11" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:03:16" type="in_open"/>
+      <text>That was so weird</text>
+      <lipsync timecode="01:04:04:21" type="out_open"/>
+    </line>
+    <loop number="5" timecode="01:04:05:05"/>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:07:02" type="in_open"/>
+      <text>Are you guys alright ? Has anyone been hurt here ?</text>
+      <lipsync timecode="01:04:09:14" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:10:05" type="in_open"/>
+      <text>Officer Jenny !</text>
+      <lipsync timecode="01:04:11:02" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:11:10" type="in_open"/>
+      <text>Huh ? Have we met before ? Your face doesn't look familiar</text>
+      <lipsync timecode="01:04:14:06" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:14:11" type="in_open"/>
+      <text>We met you back in machin city, you remember ?</text>
+      <lipsync timecode="01:04:16:16" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:16:24" type="in_open"/>
+      <lipsync link="off" timecode="01:04:20:00" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:20:03" type="in_open"/>
+      <lipsync link="off" timecode="01:04:20:15" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:21:07" type="in_open"/>
+      <lipsync link="off" timecode="01:04:25:08" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:29:12" type="in_open"/>
+      <lipsync link="off" timecode="01:04:31:04" type="out_open"/>
+    </line>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:04:32:02" type="in_open"/>
+      <lipsync link="off" timecode="01:04:34:01" type="out_open"/>
+    </line>
+    <loop number="6" timecode="01:04:34:17"/>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:35:06" type="in_open"/>
+      <lipsync link="off" timecode="01:04:37:22" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:38:16" type="in_open"/>
+      <lipsync link="off" timecode="01:04:39:17" type="out_open"/>
+    </line>
+    <line role="ondine" track="1">
+      <lipsync timecode="01:04:40:03" type="in_open"/>
+      <lipsync link="off" timecode="01:04:42:04" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:42:09" type="in_open"/>
+      <lipsync link="off" timecode="01:04:45:07" type="out_open"/>
+    </line>
+    <line role="sacha" track="0">
+      <lipsync timecode="01:04:45:20" type="in_open"/>
+      <lipsync link="off" timecode="01:04:46:13" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:04:47:04" type="in_open"/>
+      <lipsync link="off" timecode="01:04:50:15" type="out_open"/>
+    </line>
+    <line role="fliquette" track="2">
+      <lipsync timecode="01:05:00:22" type="in_open"/>
+      <lipsync link="off" timecode="01:05:01:07" type="out_open"/>
+    </line>
+  </body>
+
+</detx>
