@@ -1,8 +1,8 @@
 <?php 
-//@todo: Make this page an html page with file preview and ability to download it
+//@todo: Make this page an html page with file preview and ability to download it (+ add CSS)
 
 error_reporting(E_ALL);
-require 'converters/DextToTxt.php';
+require 'converters/DetxToTxt.php';
 require 'converters/TxtToDetx.php';
 
 header("Content-Type: text/plain");
@@ -10,12 +10,12 @@ header("Content-Type: text/plain");
 if (isset($_POST['example'])) {
     $file = 'samples/example.detx';
 
-    $converter = new DextToTxt();
+    $converter = new DetxToTxt();
 } else {
     $file = $_FILES["file"]["tmp_name"];
 
     if (isset($_POST['txt'])) {
-        $converter = new DextToTxt();
+        $converter = new DetxToTxt();
         
     } elseif (isset($_POST['detx'])) {
         $converter = new TxtToDetx();

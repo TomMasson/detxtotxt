@@ -3,11 +3,11 @@
 require_once 'AbsConverter.php';
 
 /**
- * Dext to Txt converter
+ * Detx to Txt converter
  */
-class DextToTxt extends AbsConverter {
+class DetxToTxt extends AbsConverter {
     /** 
-     * Convert given file and store the result in protected param result (Dext to Txt)
+     * Convert given file and store the result in protected param result (Detx to Txt)
      * 
      * @param string $fileName
      */
@@ -23,9 +23,6 @@ class DextToTxt extends AbsConverter {
         // Charging XML and storing the XML file
         $xml = new SimpleXMLElement($xmlString);
         $body = $xml->body;
-    
-        // Initialisating result array
-        // $formattedLines = [];
     
         foreach ($body->line as $line) {
             // reformating attributes lines

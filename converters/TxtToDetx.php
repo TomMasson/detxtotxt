@@ -54,7 +54,7 @@ class TxtToDetx extends AbsConverter{
                     $end = "00:00:00:00";
                     $text = "";
 
-                    if (preg_match('/^(\d)\s(\w+)\s\(([\d:]+)-([\d:]+)\)\s:\s(.+)$/', $line, $matches)) {
+                    if (preg_match('/^(\d)\s(\w+)\s\(([\d:]+)-([\d:]+)\)\s:\s(.*)$/', $line, $matches)) {
                         $track = $matches[1];
                         $role = $matches[2];
                         $start = $matches[3];
